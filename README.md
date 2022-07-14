@@ -115,9 +115,9 @@ SECCIÓN 11–5 La fórmula de la onda seno
 
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
-<img width="232" alt="image" src="https://user-images.githubusercontent.com/104999420/179013832-c9de79da-9e51-4f3b-9fa0-83fc91a8fddb.png">
+<img width="241" alt="image" src="https://user-images.githubusercontent.com/104999420/179020221-4834fbcd-08d2-44f6-b43f-77325ac6cc6b.png">
 
-![image](https://user-images.githubusercontent.com/104999420/179013940-8a48b9ed-63b3-4b26-9fa9-2f74a8570e9d.png)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/104999420/179020276-24a03cff-9046-4b1f-848c-98811cd3a996.png">
 
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
 
@@ -141,7 +141,7 @@ SECCIÓN 11–7 Análisis de circuitos de ca
 
 28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
 
-![image](https://user-images.githubusercontent.com/104999420/179014513-e5f4374f-907c-417e-900b-2e8276d81380.png)
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/104999420/179020427-1c280497-f941-43bf-9e96-03a1c0969290.png">
 
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
