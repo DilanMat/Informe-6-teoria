@@ -350,7 +350,7 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 5. Video
 
-
+https://youtu.be/rEe3kxtIuFw
 
 6.	CONCLUSIÓNES 
 •	Los conceptos leídos en el capítulo 11 y 12 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular.
